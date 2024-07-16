@@ -1,0 +1,4 @@
+For Getting Products => https://dummyjson.com/products
+
+For Getting Categories => https://dummyjson.com/products/categories
+
